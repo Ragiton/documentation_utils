@@ -13,5 +13,6 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"virtualenv": "O:\\software\\documentation_utils\\venv"
 }
